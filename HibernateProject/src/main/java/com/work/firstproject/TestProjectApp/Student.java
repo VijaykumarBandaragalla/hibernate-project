@@ -1,4 +1,4 @@
-package com.girmiti.firstproject.TestProjectApp;
+package com.work.firstproject.TestProjectApp;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
